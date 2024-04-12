@@ -1,0 +1,11 @@
+Temperature vs Latitude
+When we explore the relationship between Temperature and Latitude we can draw two conclusions. Northern Hemisphere has a stronger relationship than Southern Hemisphere between Temperature and Latitude with a r-value of in the North 0.71 and with the Southern Hempishere there is a r-value of 0.59. In the Southern Hemisphere when the latitude increases, temperature increases which shows a positive relationship, while in the Northen Hemisphere as latitude increases temperature begins to decrease showing a negative relationship
+
+Humidity vs. Latitude 
+There seems to be a poor relationship between humidity and latitude, the r-values for both Northern (0.06) and Southern Hemisphere (0.09) vs Latitude charts produce values far from an r-value of 1 which indicates that there is a poor or no relationship between factors
+
+Cloudiness vs. Latitude
+Similar to Humidity, the r-values generated in the graphs for Cloudiness vs Northern/Southern Hemisphere are values that indicate that the linear relationship between cloudiness vs latitude is weak or non-existent.
+
+Wind Speed vs. Latitude Linear Regression Plot
+The r-values which would indicate a relationship between wind speed and latitude shows that there is weak relationship between windspeed and latitude in both Northern and Southern Hemispheres with r values of 0.009 for Northern Hemisphere and 0.14 for Southern Hemisphere. As latitude increases, windspeed decreases in both Northern and Southern Hemisphere
